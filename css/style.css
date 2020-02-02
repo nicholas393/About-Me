@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url(../assets/images/skyline.jpg)  no-repeat center center fixed;
+    color: #fff;
+    text-align: center;
+}
+ a {
+   color: white;
+ }
